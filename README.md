@@ -8,11 +8,11 @@
 
 ---
 
-## Why I built it
+## Why it exists
 
 At CubeNation, designs, posts and documents were reviewed in chat threads, so feedback got lost and nobody knew which version was the latest. TeamShelf puts every file in one shared shelf, with comments on the exact words, a clear review status and a full version history.
 
-**My role:** product owner. I defined the problem, planned every feature, tested it with the team and decided what to build next. The code was written with **AI (Claude)** under my direction.
+**My role:** I look after TeamShelf as its product owner. I listen to what the team needs, test each new feature with them and help decide what to improve next. The code is written with **AI (Claude)**.
 
 ## Features
 
